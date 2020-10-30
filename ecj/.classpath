@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="src/|ec/" kind="src" path=""/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/stefano/eclipse-workspace/ecj/libraries/EJML-core-0.27.jar"/>
+	<classpathentry kind="lib" path="/home/stefano/eclipse-workspace/ecj/libraries/EJML-dense64-0.27.jar"/>
+	<classpathentry kind="lib" path="/home/stefano/eclipse-workspace/ecj/libraries/EJML-simple-0.27.jar"/>
+	<classpathentry kind="lib" path="/home/stefano/eclipse-workspace/ecj/libraries/itext-1.2.jar"/>
+	<classpathentry kind="lib" path="/home/stefano/eclipse-workspace/ecj/libraries/jcommon-1.0.16.jar"/>
+	<classpathentry kind="lib" path="/home/stefano/eclipse-workspace/ecj/libraries/jfreechart-1.0.13.jar"/>
+	<classpathentry kind="lib" path="/home/stefano/eclipse-workspace/ecj/libraries/jzlib-1.0.7.jar"/>
+	<classpathentry kind="lib" path="/home/stefano/eclipse-workspace/ecj/libraries/pshecj.jar"/>
+	<classpathentry kind="lib" path="/home/stefano/eclipse-workspace/super-csv/super-csv-2.3.1.jar" sourcepath="/home/stefano/eclipse-workspace/super-csv/super-csv-2.3.1-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/stefano/eclipse-workspace/super-csv/super-csv-2.3.1-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/stefano/eclipse-workspace/commons-math3-3.4.1/commons-math3-3.4.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/stefano/eclipse-workspace/commons-math3-3.4.1/commons-math3-3.4.1-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
